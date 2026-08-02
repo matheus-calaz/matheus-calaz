@@ -1,4 +1,4 @@
-# Hey, I'm Matheus 👋
+# Hey, I'm Matheus 
 
 I'm a **Computer Science student at UEM** and a **Frontend Developer with a strong focus on UI/UX**. I like bridging the gap between design in Figma and clean, responsive code on the web.
 
@@ -6,7 +6,7 @@ Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**,
 
 ---
 
-### 💡 What I Focus On
+### What I Focus On
 
 * **Frontend & Design:** Translating Figma prototypes into responsive HTML, CSS, and JavaScript.
 * **CS Fundamentals:** Combining academic computer science concepts with practical product development.
@@ -14,7 +14,7 @@ Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**,
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend & Design**  
 `HTML5` `CSS3` `JavaScript` `Figma` `WordPress`
@@ -24,15 +24,15 @@ Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**,
 
 ---
 
-### 📌 What I'm Working On
+### What I'm Working On
 
-* 🚀 Building clean, accessible, and fast web pages.
-* 🎨 Improving component systems and layout structures in Figma.
-* 🤖 Exploring practical AI integrations for everyday web apps.
+*  Building clean, accessible, and fast web pages.
+*  Improving component systems and layout structures in Figma.
+*  Exploring practical AI integrations for everyday web apps.
 
 ---
 
-### 📫 Contact
+###  Contact
 
 * **LinkedIn:** [Matheus Calazans](https://www.linkedin.com/in/matheus-calazans-15068824a/)
 * **Email:** [mcmatheus402@gmail.com](mailto:mcmatheus402@gmail.com)
