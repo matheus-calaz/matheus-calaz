@@ -1,36 +1,38 @@
-# Hi there, I'm Matheus Calazans 👋
+# Hey, I'm Matheus 👋
 
-I'm a **Computer Science Student at UEM** (Universidade Estadual de Maringá) and a **Frontend & UI/UX Enthusiast** with a passion for building clean, user-centric interfaces and exploring AI integration.
+I'm a **Computer Science student at UEM** and a **Frontend Developer with a strong focus on UI/UX**. I like bridging the gap between design in Figma and clean, responsive code on the web.
 
-- 🎓 Currently studying **Computer Science**
-- 💼 Junior Enterprise Experience at **MAIN**
-- 🎨 Bridge between **UI/UX Design (Figma)** and **Frontend Development**
-- 🌐 Native-level fluency in **English (C2)** & Portuguese (Native)
+Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**, working on real client projects, and sharpening my skills in modern web development.
+
+---
+
+### 💡 What I Focus On
+
+* **Frontend & Design:** Translating Figma prototypes into responsive HTML, CSS, and JavaScript.
+* **CS Fundamentals:** Combining academic computer science concepts with practical product development.
+* **Global Communication:** Fully fluent in English (C2) and ready for remote collaboration.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Design**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+**Frontend & Design**  
+`HTML5` `CSS3` `JavaScript` `Figma` `WordPress`
 
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Workflow & Dev Tools**  
+`Git` `GitHub` `VS Code`
 
 ---
 
-### 📌 Featured Projects
+### 📌 What I'm Working On
 
-* **Robodin:** Static web application built with HTML & CSS. Focused on clean code structure and responsive UI.
-* **SESDUEM:** Institutional web platform built with WordPress, focusing on content architecture and usability.
+* 🚀 Building clean, accessible, and fast web pages.
+* 🎨 Improving component systems and layout structures in Figma.
+* 🤖 Exploring practical AI integrations for everyday web apps.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mcmatheus402@gmail.com)
+* **LinkedIn:** [Matheus Calazans](https://www.linkedin.com/in/matheus-calazans-15068824a/)
+* **Email:** [mcmatheus402@gmail.com](mailto:mcmatheus402@gmail.com)
