@@ -1,6 +1,6 @@
 # Hey, I'm Matheus 
 
-I'm a **Computer Science student at UEM** and a **Frontend Developer with a strong focus on UI/UX**. I like bridging the gap between design in Figma and clean, responsive code on the web.
+I'm a **Computer Science student at UEM** and a **Frontend Developer with a strong focus on UI/UX**. I like bridging the gap between design in Figma and the responsive code on the web.
 
 Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**, working on real client projects, and sharpening my skills in modern web development.
 
