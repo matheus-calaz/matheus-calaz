@@ -34,5 +34,5 @@ Right now, I'm gaining hands-on experience through **MAIN (Junior Enterprise)**,
 
 ###  Contact
 
-* **LinkedIn:** [Matheus Calazans](https://www.linkedin.com/in/matheus-calazans-15068824a/)
+* **LinkedIn:** [Matheus Calazans](www.linkedin.com/in/matheus-am-calazans)
 * **Email:** [mcmatheus402@gmail.com](mailto:mcmatheus402@gmail.com)
